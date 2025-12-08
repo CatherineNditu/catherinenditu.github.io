@@ -4695,3 +4695,10 @@ input, select, textarea {
     margin-top: 10px;
     margin-bottom: 20px;
 }
+
+/* About Me Section */
+#about {
+    background-color: #f8f8f8; /* Light gray background */
+    padding: 4em 2em; /* Top/bottom and side padding */
+    text-align: center; /* Center the text */
+}
