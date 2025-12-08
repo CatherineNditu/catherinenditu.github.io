@@ -4700,7 +4700,7 @@ input, select, textarea {
 #about {
     background-color: #ffffff;  /* White background */
     padding: 4em 2em;           /* Top/bottom and side padding */
-    text-align: center;          /* Center the text */
+    text-align: center;          /* Center text */
 }
 
 #about h2 {
@@ -4716,6 +4716,7 @@ input, select, textarea {
     max-width: 800px;
     margin: 0 auto 1em auto;    /* Center paragraphs and spacing */
 }
+
 
 
 
