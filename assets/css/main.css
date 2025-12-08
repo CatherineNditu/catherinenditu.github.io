@@ -4696,26 +4696,6 @@ input, select, textarea {
     margin-bottom: 20px;
 }
 
-/* About Me Section */
-#about {
-    background-color: #ffffff;  /* White background */
-    padding: 4em 2em;           /* Top/bottom and side padding */
-    text-align: center;          /* Center text */
-}
-
-#about h2 {
-    color: #000000;              /* Black header text */
-    font-size: 2.5em;
-    margin-bottom: 0.5em;
-}
-
-#about p {
-    color: #000000;              /* Black paragraph text */
-    font-size: 1.2em;
-    line-height: 1.8em;
-    max-width: 800px;
-    margin: 0 auto 1em auto;    /* Center paragraphs and spacing */
-}
 
 
 
