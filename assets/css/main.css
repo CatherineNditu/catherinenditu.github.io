@@ -4698,7 +4698,8 @@ input, select, textarea {
 
 /* About Me Section */
 #about {
-    background-color: #f8f8f8; /* Light gray background */
+    background-color: #212931; /* very dark shade of blue-gray background */
     padding: 4em 2em; /* Top/bottom and side padding */
     text-align: center; /* Center the text */
 }
+
